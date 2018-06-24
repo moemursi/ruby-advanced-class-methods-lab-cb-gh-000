@@ -6,7 +6,7 @@
 2. Build class finders.
 3. Build class operators.
 
-## Instructions
+## Instructiofns
 
 This lab has provided you with a base `Song` class that provides the following definition:
 
